@@ -1,0 +1,62 @@
+[
+ {
+    "stringInstruments": [
+      {
+        "name": "Violin",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV1NjNfSrRRpb_rXhh0BZvQjaa7CoFIa_YFA&usqp=CAU",
+        "condition": "Excellent",
+        "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+     },
+      {
+        "name": "Guitar",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxdFIqkFFVrMdHNtLJNW1dMUafE6b5PGk_dg&usqp=CAU",
+        "condition": "Excellent",
+        "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+      },
+      {
+        "name": "Ukulele",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvkVYOZlHg-yuAvmAph55u-63cNvw5CRaEYA&usqp=CAU",
+        "condition": "Excellent",
+        "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"      }
+    ],
+
+
+    "percussionInstruments": [
+      {
+        "name": "Drums",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIGUIKOr8XJG9vTArIGc9GCPa9u_yz-UnyA&usqp=CAU",
+         "condition": "Excellent",
+         "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+      },
+      {
+        "name": "tabala",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPobk65KfwCp6eGRs0oIFq2v43IRbXCHZuw&usqp=CAU",
+        "condition": "Excellent",
+        "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+      }
+    ],
+
+
+    "windInstruments": [
+      {
+        "name": "Saxophone",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2AZkRDgLVlaX_u_nvpGzOFVjfABo9i1brNA&usqp=CAU",
+         "condition": "Excellent",
+         "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+      },
+      {
+        "name": "flute",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1KcqbeeMb8mRzl_J2OMQuFB4Er5wZWxRcdQ&usqp=CAU",
+          "condition": "Excellent",
+         "price": "500",
+        "deliveryCharges": "Delivery Charges 50 Extra"
+      }
+    ]
+  }
+]
